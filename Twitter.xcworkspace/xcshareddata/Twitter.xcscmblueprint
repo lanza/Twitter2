@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "ECD6560FFE708CFB4A31AD2092CEBD7A4222EFDE",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "F5F1FDB46F245B3EDB7113421C9242959122E55D" : 9223372036854775807,
+    "ECD6560FFE708CFB4A31AD2092CEBD7A4222EFDE" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "D3DC3AE0-D471-4F68-9490-21086652FC63",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "F5F1FDB46F245B3EDB7113421C9242959122E55D" : "..\/CoordinatorKit",
+    "ECD6560FFE708CFB4A31AD2092CEBD7A4222EFDE" : "Twitter\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Twitter",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Twitter.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/nathanlanza\/Twitter.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "ECD6560FFE708CFB4A31AD2092CEBD7A4222EFDE"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/nathanlanza\/CoordinatorKit.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "F5F1FDB46F245B3EDB7113421C9242959122E55D"
+    }
+  ]
+}

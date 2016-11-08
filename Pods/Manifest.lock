@@ -1,0 +1,57 @@
+PODS:
+  - Alamofire (4.0.1)
+  - AlamofireImage (3.1.0):
+    - Alamofire (~> 4.0)
+  - AlamofireNetworkActivityIndicator (2.0.1):
+    - Alamofire (~> 4.0)
+  - CoordinatorKit (0.0.4)
+  - Moya (8.0.0-beta.2):
+    - Moya/Core (= 8.0.0-beta.2)
+  - Moya/Core (8.0.0-beta.2):
+    - Alamofire (~> 4.0.0)
+    - Result
+  - OAuthSwift (1.0.0)
+  - OAuthSwiftAlamofire (0.1.0):
+    - Alamofire
+    - OAuthSwift
+  - Result (3.0.0)
+  - RxCocoa (3.0.1):
+    - RxSwift (~> 3.0)
+  - RxSwift (3.0.1)
+  - StretchHeader (1.0.4)
+  - SwiftyJSON (3.0.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.0)
+  - AlamofireImage (~> 3.1)
+  - AlamofireNetworkActivityIndicator (~> 2.0)
+  - CoordinatorKit (from `~/Documents/CoordinatorKit`)
+  - Moya (= 8.0.0-beta.2)
+  - OAuthSwift (~> 1.0.0)
+  - OAuthSwiftAlamofire
+  - RxCocoa (~> 3.0)
+  - RxSwift (~> 3.0)
+  - StretchHeader
+  - SwiftyJSON (= 3.0.0)
+
+EXTERNAL SOURCES:
+  CoordinatorKit:
+    :path: "~/Documents/CoordinatorKit"
+
+SPEC CHECKSUMS:
+  Alamofire: 7682d43245de14874acd142ec137b144aa1dd335
+  AlamofireImage: bb8c8351c51cb1633bb6be69b6dbbaff37ce65b7
+  AlamofireNetworkActivityIndicator: 3e55069ada3e1ff7703665156429eedcdfea0bc1
+  CoordinatorKit: 9329d20b4bc418bf07067ec015f8198f9fab4aca
+  Moya: 920d40f738e6f4ece84010cec701bb9693be8251
+  OAuthSwift: dd4f502ffd4f6e122b861b5e4529bf6454a30fe6
+  OAuthSwiftAlamofire: 20bb998ac506f82c3bab0625fbc98a9c6fca783f
+  Result: 1b3e431f37cbcd3ad89c6aa9ab0ae55515fae3b6
+  RxCocoa: 15a52fc590dcc700cb4a690a633b5c5184ce3a78
+  RxSwift: af5680055c4ad04480189c52d28385b1029493a6
+  StretchHeader: abf0d6a795e8e7bf4000752c65c85bf274686f41
+  SwiftyJSON: f57b2b44bc166617372d1c70773591fe9f0f5fd4
+
+PODFILE CHECKSUM: 34fc24ff5f31730159aaa38cad0e956a326ecf9c
+
+COCOAPODS: 1.1.1
